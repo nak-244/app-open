@@ -637,15 +637,15 @@ html .overlay-color-light:not(.no-skin):before {
 }
 
 html .btn-primary {
-	background-color: #f4645a;
-	border-color: #f4645a #f4645a #f1372a;
+	background-color: #10AEEF;
+	border-color: #10AEEF #10AEEF #10AEEF;
 	color: #FFF;
 }
 
 html .btn-primary:hover,
 html .btn-primary.hover {
-	background-color: #f6867e;
-	border-color: #f7918a #f7918a #f4645a;
+	background-color: #1e90ff;
+	border-color: #1e90ff #1e90ff #1e90ff;
 	color: #FFF;
 }
 
@@ -5682,7 +5682,7 @@ svg circle.icons-circle {
 }
 
 .custom-bg-color-1 {
-	background-color: hsl(3.8961039, 78%, 56%) !important;
+	background-color: hsl(197, 87%, 56%) !important;
 }
 /*
 * Custom Classes
