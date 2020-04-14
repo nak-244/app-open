@@ -203,7 +203,7 @@ h2.custom-bar:after {
 	position: absolute;
 	bottom: 0;
 	width: 17px;
-	border-bottom: 2px solid #f4645a;
+	border-bottom: 2px solid #00AEEF;
 }
 h2.custom-bar._left:after {
 	left: 1px;
