@@ -354,7 +354,7 @@ html:not(.sticky-header-active) #header .header-nav.header-nav-links nav > ul li
 	letter-spacing: 0.5px;
 	padding: 8px 24px;
 	background: transparent !important;
-	border-color: rgba(244, 100, 90, 0.5) !important;
+	border-color: rgba(16,174,239, 0.5) !important;
 }
 .custom-btn-style-2:hover, .custom-btn-style-2:hover:active, .custom-btn-style-2.active, .custom-btn-style-2:focus {
 	border-color: #f4645a !important;
