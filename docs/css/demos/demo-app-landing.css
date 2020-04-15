@@ -468,7 +468,7 @@ html:not(.sticky-header-active) #header .header-nav.header-nav-links nav > ul li
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: url("../../img/demos/app-landing/smartphone.png");
+	background: url("../../assets/img/smartphone.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
